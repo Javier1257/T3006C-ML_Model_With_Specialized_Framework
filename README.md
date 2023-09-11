@@ -1,1 +1,4 @@
 # T3006C-ML_Model_With_Specialized_Framework
+
+Para esta actividad se ha desarrollado un algoritmo de clasificación para el dataset "Titanic" obtenido de una competencia de Kaggle en el que se tiene como objetivo predecir si el pasajero sobrevivió al fatídico accidente en base a la información proporcionada, personalmente me parece un intersante set de información para practicar y en este caso relacionado a la actividad considero que se alinea perfectamente con los objetivos de misma.
+En este repositoria se encuentra una carpeta llamada "Titanic" la cual tiene todos los archivos ".csv" necesarios para entrenar y realizar las predicciones del modelo, otro archivo en el repositorio es un ".py" donde se encuentra el código que entrena y realiza las predicciones del modelo que en este caso se trata de una red neuronal multicapa y por ultimo hay un archivo ".pdf" en el cual es un reporte de desempeño y analisis donde se documenta en detalle la información del modelo.
